@@ -1,31 +1,29 @@
-# PROJETO — DEVSOLX (REACT.JS)
+<!-- Título -->
+# Utilizando HTTPS Para Comunicação
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] Introdução.
-- [ ] Criando o Projeto e Instalando Dependências.
-- [ ] Estruturando o Redux.
-- [ ] Estruturando as Rotas.
-- [ ] Criando a API de Consulta (Parte 1).
-- [ ] Criando a API de Consulta (Parte 2).
-- [ ] Criando o Header (Parte 1).
-- [ ] Criando o Header (Parte 2).
-- [ ] Criando o Header (Parte 3).
-- [ ] Craindo o Header (Parte 4).
-- [ ] Criando o Header (Parte 5).
+O protocolo HTTPS é o mais fácil e prático para ser utilizado no Github.
 
-## INFORMAÇÕES
+Para isso, não há a necessidade de nenhuma configuração adicional.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.projeto-devsolx-front-end-zp "Total de Visitas")
+Apenas com o link do repositório é possível realizar esta comunicação, desde que você possua permissão de acesso ao repositório.
+
+Sendo assim, no próximo vídeo veremos como esta comunicação funciona utilizando o HTTPS.
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-uti-htt-par-com-com-htt-ssh-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/projeto-devsolx-front-end-zp?style=social "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/projeto-devsolx-front-end-zp?style=social "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/projeto-devsolx-front-end-zp?style=social "Total de Forks")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/projeto-devsolx-front-end-zp?style=social "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/projeto-devsolx-front-end-zp?style=social "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-uti-htt-par-com-com-htt-ssh-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
